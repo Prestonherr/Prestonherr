@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preston Herr</h1>
-<h3 align="center">An aspiring software engineer from Chicago</h3>
+<h3 align="center">An aspiring software engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prestonherr" alt="prestonherr" /></a> </p>
 
