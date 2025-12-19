@@ -33,7 +33,7 @@ Git, GitHub, GitHub Pages, npm, ESLint, Prettier, VS Code
 
 ### 🚀 Current Work
 
-- 🔭 Currently working on **[BrewMap](https://prestonherr.github.io/BrewMap/)** – a coffee shop finder that uses OpenStreetMap APIs to locate cafés by city and radius  
+- 🔭 Currently working on **[BrewMap](https://prestonherr.github.io/brewmap-frontend/)** – a coffee shop finder that uses OpenStreetMap APIs to locate cafés by city and radius  
 - 🌦 Recently built **[WTWR (What To Wear)](https://wtwr.joe.dj/)** – a weather-based clothing recommendation app using the MERN stack  
 - 🖼 Previously built **[Spots](https://prestonherr.github.io/se_project_spots/)** – an image-sharing app focusing on React, forms, and UI patterns  
 
