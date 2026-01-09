@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- Aspiring software engineer transitioning from 4+ years in operations, logistics, and branch management into full-stack development  
+- Software engineer transitioning from 4+ years in operations, logistics, and branch management into full-stack development  
 - Currently completing the **TripleTen Software Engineering Bootcamp**  
 - Focused on building real projects with real data: APIs, authentication, deployment, and clean UI  
 - Based in **Galesburg, IL** · open to **remote** and **relocation**
